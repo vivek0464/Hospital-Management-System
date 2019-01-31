@@ -1,0 +1,13 @@
+Task 1- Deadline - 02/01/2019
+
+	Anubhav Tyagi - Get the "Modify Appointment" button in patient's form working by Saturday.
+	       	      - Create Patient's Database By Friday
+
+	Rakesh Reddy - Addition of booking appiontment button in paitent form
+		     - Create Medicine's Database
+
+	Rhythm  - Addition of History button in Patient form which displays the history of patient appointments and medical stuff
+
+	Vineet Malik - Implement the 'Pending Appointment Button' in Doctor's Form
+
+	Vivek Kumar - Implement the 'Upcoming Appointment Button' in Doctor's Form
