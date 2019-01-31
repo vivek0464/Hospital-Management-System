@@ -1,0 +1,26 @@
+Group 10
+Members - 1-Makharia Ayush
+	  2-Anubhav Tyagi
+	  3-Theegala Rakesh Reddy
+	  4-Vineet Malik
+	  5-Vivek Kumar
+	  6-Kanchuhamtla Rhythm
+	  
+
+Meeting 1 - Attendance - All Present 
+            Time - 3 pm    Date - 29/01/2019    Duration - 20 mins
+	    1-General Discussion on the services that can be included in the form like booking appointment by patient , accepting or rejecting appointment by the doctor and an admin section to Manage the 		      Database
+	    2-Choice of Database - MySQL	    
+
+Meeting 2 - Attendance - All Present 
+	    Time - 6 pm    Date - 30/01/2019    Duration - 1 hours
+	    1-Final Discussion on the services that will be included in the windows application
+            2-The basic design finalised in the meeting is as follows:
+		a)Patient's Form : It contains major services like Book Appointment, Modify Appointment , Check previous appointment history , Section to pharmacy , List of Doctors and their availaibility,
+				   Patient's Feedback , OPD timings , Ambulance availibity
+		b)Doctor's Form  : It contains services like Accepting appointment request , List of upcoming appointments , Leave Form for Doctor's.
+		c)Admin's Form   : It contains all the utilities to edit or change the database. Basic services include Changing medicine stock database , Validating database of registered Patient and 					   Doctor.
+		d)SignUp/Login Form : Login and signup form for doctor, patient and admin  
+	    3-Initial Work Distribution for the project and the Deadline for completion of the same
+	      
+Next Meeting :  Date - 02/01/2019  Time - Yet to be Decided  
