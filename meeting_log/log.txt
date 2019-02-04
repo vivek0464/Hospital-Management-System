@@ -22,5 +22,13 @@ Meeting 2 - Attendance - All Present
 		c)Admin's Form   : It contains all the utilities to edit or change the database. Basic services include Changing medicine stock database , Validating database of registered Patient and 					   Doctor.
 		d)SignUp/Login Form : Login and signup form for doctor, patient and admin  
 	    3-Initial Work Distribution for the project and the Deadline for completion of the same
-	      
-Next Meeting :  Date - 02/01/2019  Time - Yet to be Decided  
+
+Meeting 1 - Attendance - All Present 
+            Time - 12 pm    Date - 02/02/2019    Duration - 1.5 hrs
+	    1- Choice of Database - MS Access
+	    2- Redefined the problem statement
+	    3- Structure of software - a) Login is for Staff And Admin Only
+	    			       b) Staff login contains the following features : Add Patient, Admit Patient, Consult Patient to a 					   doctor,Staff members availability query, Blood Bank Details
+				       c) Admin Login contains the following features : Add Staff Members , Blood Bank Details, staff 						  leave approval And access to all database
+	    4- Task Distribution
+  
