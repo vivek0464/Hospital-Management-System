@@ -1,0 +1,10 @@
+E:\updateform\updateform\bin\Debug\updateform.exe.config
+E:\updateform\updateform\bin\Debug\updateform.exe
+E:\updateform\updateform\bin\Debug\updateform.pdb
+E:\updateform\updateform\bin\Debug\updateform.xml
+E:\updateform\updateform\obj\Debug\updateform.Form1.resources
+E:\updateform\updateform\obj\Debug\updateform.Resources.resources
+E:\updateform\updateform\obj\Debug\updateform.vbproj.GenerateResource.Cache
+E:\updateform\updateform\obj\Debug\updateform.exe
+E:\updateform\updateform\obj\Debug\updateform.xml
+E:\updateform\updateform\obj\Debug\updateform.pdb
