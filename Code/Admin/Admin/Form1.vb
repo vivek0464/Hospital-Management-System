@@ -8,29 +8,29 @@ Public Class Form1
     Dim myConnection As OleDbConnection = New OleDbConnection
 
     Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
-
+        'Connection String to connect to Database
         provider = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source="
-        dataFile = "C:\Users\vinee\Documents\Admin\Patient.accdb"
-        connString = provider & dataFile
-        myConnection.ConnectionString = connString
-
+        dataFile = "C:\Users\ANUBHAV TYAGI\Desktop\Hospital-Management-System\Code\Admin\Patient.accdb"
+        myConnection.ConnectionString = provider & dataFile
+        txtRGender.Items.Add("Male")
+        txtRGender.Items.Add("Female")
+        txtRGender.Items.Add("Male")
     End Sub
 
     Private Sub btnRCLEAR_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnRCLEAR.Click
-
+        'Clears all the textbox on screen
         txtRName.Clear()
         txtRAge.Clear()
-        txtRGender.Clear()
+        txtRGender.Items.Clear()
         txtRMobile.Clear()
         txtRAddress.Clear()
-
     End Sub
 
     Private Sub btnRADD_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnRADD.Click
 
         Dim ok As Integer = 1
         Dim temp As Integer
-
+        'If any TextBox is empty, Print error message
         If txtRName.Text = "" Or txtRAge.Text = "" Or txtRGender.Text = "" Or txtRMobile.Text = "" Or txtRAddress.Text = "" Then
             ok = 0
             MessageBox.Show("All details are required to be filled.", "INVALID ENTRY.")
@@ -76,7 +76,7 @@ Public Class Form1
 
                 btnRCLEAR_Click(sender, e)
 
-                MessageBox.Show("Patient registered successfylly.", "Patient Registration")
+                MessageBox.Show("Patient registered successfully.", "Patient Registration")
 
             Catch ex As Exception
 
@@ -310,5 +310,26 @@ Public Class Form1
 
         End If
 
+    End Sub
+
+    Private Sub DataGridViewA_CellMouseClick(sender As Object, e As DataGridViewCellMouseEventArgs) Handles DataGridViewA.CellMouseClick
+        Try
+            txtAPID.Text = DataGridViewA.Rows(e.RowIndex).Cells(0).Value
+            txtAName.Text = DataGridViewA.Rows(e.RowIndex).Cells(1).Value
+            txtAAge.Text = DataGridViewA.Rows(e.RowIndex).Cells(2).Value
+            txtAGender.Text = DataGridViewA.Rows(e.RowIndex).Cells(3).Value
+            txtAMobile.Text = DataGridViewA.Rows(e.RowIndex).Cells(4).Value
+            txtAAddress.Text = DataGridViewA.Rows(e.RowIndex).Cells(5).Value
+            txtADateIn.Text = DataGridViewA.Rows(e.RowIndex).Cells(6).Value.ToString()
+            txtADateOut.Text = DataGridViewA.Rows(e.RowIndex).Cells(7).Value.ToString()
+            txtADisease.Text = DataGridViewA.Rows(e.RowIndex).Cells(8).Value.ToString()
+            txtAStatus.Text = DataGridViewA.Rows(e.RowIndex).Cells(9).Value.ToString()
+            txtARoomNo.Text = DataGridViewA.Rows(e.RowIndex).Cells(10).Value.ToString()
+            txtARoomType.Text = DataGridViewA.Rows(e.RowIndex).Cells(11).Value.ToString()
+            txtAFee.Text = ""
+        Catch ex As Exception
+
+        End Try
+        
     End Sub
 End Class

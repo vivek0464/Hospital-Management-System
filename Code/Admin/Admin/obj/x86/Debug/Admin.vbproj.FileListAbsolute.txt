@@ -16,3 +16,12 @@ C:\Users\vinee\Documents\Admin\Admin\bin\Debug\Admin.xml
 C:\Users\vinee\Documents\Admin\Admin\obj\x86\Debug\Admin.Form1.resources
 C:\Users\vinee\Documents\Admin\Admin\obj\x86\Debug\Admin.Resources.resources
 C:\Users\vinee\Documents\Admin\Admin\obj\x86\Debug\Admin.vbproj.GenerateResource.Cache
+C:\Users\ANUBHAV TYAGI\Desktop\Hospital-Management-System\Code\Admin\Admin\obj\x86\Debug\Admin.exe
+C:\Users\ANUBHAV TYAGI\Desktop\Hospital-Management-System\Code\Admin\Admin\obj\x86\Debug\Admin.xml
+C:\Users\ANUBHAV TYAGI\Desktop\Hospital-Management-System\Code\Admin\Admin\obj\x86\Debug\Admin.pdb
+C:\Users\ANUBHAV TYAGI\Desktop\Hospital-Management-System\Code\Admin\Admin\bin\Debug\Admin.exe
+C:\Users\ANUBHAV TYAGI\Desktop\Hospital-Management-System\Code\Admin\Admin\bin\Debug\Admin.pdb
+C:\Users\ANUBHAV TYAGI\Desktop\Hospital-Management-System\Code\Admin\Admin\bin\Debug\Admin.xml
+C:\Users\ANUBHAV TYAGI\Desktop\Hospital-Management-System\Code\Admin\Admin\obj\x86\Debug\Admin.Form1.resources
+C:\Users\ANUBHAV TYAGI\Desktop\Hospital-Management-System\Code\Admin\Admin\obj\x86\Debug\Admin.Resources.resources
+C:\Users\ANUBHAV TYAGI\Desktop\Hospital-Management-System\Code\Admin\Admin\obj\x86\Debug\Admin.vbproj.GenerateResource.Cache
