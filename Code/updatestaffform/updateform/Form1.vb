@@ -15,57 +15,71 @@ Public Class Form1
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
-        myConnection.Open()
-        Dim dt As New DataTable
-        Dim ds As New DataSet
-        ds.Tables.Add(dt)
-        Dim da As New OleDbDataAdapter()
-        da = New OleDbDataAdapter()
-        Dim str As String
-        str = "Select * from [Staff] where  [Mobile]  ='" & TextBox8.Text & "'"
-        Dim reader As OleDbDataReader
-        Dim cmd As OleDbCommand
-        'da = New OleDbDataAdapter("Select * from Table1 where Mobile like '%" & txtASMobile.Text & "%'", myconnection)
 
-        cmd = New OleDbCommand(str, myConnection)
-        reader = cmd.ExecuteReader()
 
-        While reader.Read
-            TextBox9.Text = reader(0)
-            TextBox1.Text = reader(1)
-            TextBox2.Text = reader(2)
-            TextBox3.Text = reader(3)
-            TextBox4.Text = reader(4)
-            TextBox5.Text = reader(5)
-            TextBox6.Text = reader(6)
-            TextBox7.Text = reader(7)
+            myConnection.Open()
 
-        End While
-        myConnection.Close()
+            Dim dt As New DataTable
+            Dim ds As New DataSet
+            ds.Tables.Add(dt)
+            Dim da As New OleDbDataAdapter
+
+            da = New OleDbDataAdapter("Select * from Staff where Mobile like '%" & TextBoxSearch.Text & "%'", myConnection)
+            da.Fill(dt)
+
+            DataGridViewA.DataSource = dt.DefaultView
+
+            If DataGridViewA.RowCount = 1 Then
+                MessageBox.Show("Not Found.", "Result")
+            Else
+                TextBoxSID.Text = DataGridViewA.Rows(0).Cells(0).Value
+                TextBoxName.Text = DataGridViewA.Rows(0).Cells(1).Value
+                TextBoxDesignation.Text = DataGridViewA.Rows(0).Cells(2).Value
+                TextBoxDOB.Text = DataGridViewA.Rows(0).Cells(3).Value
+                TextBoxGender.Text = DataGridViewA.Rows(0).Cells(4).Value
+                TextBoxMobile.Text = DataGridViewA.Rows(0).Cells(5).Value
+                TextBoxAddress.Text = DataGridViewA.Rows(0).Cells(6).Value.ToString()
+                TextBoxPassword.Text = DataGridViewA.Rows(0).Cells(7).Value.ToString()
+            End If
+
+            myConnection.Close()
 
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         myConnection.Open()
         Dim str As String
-        'str = "Update [Staff] set [Name]= ' " & TextBox1.Text & " 'where [SID] = " & TextBox9.Text & " "
-        str = "Update [Staff] set [Name]= ' " & TextBox1.Text & " ',[Designation]= ' " & TextBox2.Text & " ',[Date Of Birth]= ' " & TextBox3.Text & " ',[Gender]= ' " & TextBox4.Text & " ',[Mobile]= ' " & TextBox5.Text & " ',[Address]= ' " & TextBox6.Text & " ',[Password]= ' " & TextBox7.Text & " 'where [SID] = " & TextBox9.Text & " "
+        str = "Update [Staff] set [Mobile]='" & TextBoxMobile.Text & "',[Address]='" & TextBoxAddress.Text & "',[Password]='" & TextBoxPassword.Text & "'where [SID] = " & TextBoxSID.Text & " "
         Dim cmd As OleDbCommand = New OleDbCommand(str, myConnection)
-        cmd.ExecuteNonQuery()
-        cmd.Dispose()
-        TextBox1.Clear()
-        TextBox2.Clear()
-        TextBox3.Clear()
-        TextBox4.Clear()
-        TextBox5.Clear()
-        TextBox6.Clear()
-        TextBox7.Clear()
-        TextBox8.Clear()
-        TextBox9.Clear()
-        myConnection.Close()
+        Try
+            cmd.ExecuteNonQuery()
+            cmd.Dispose()
+            myConnection.Close()
+        Catch ex As Exception
+            MsgBox(ex.Message)
+
+        End Try
+        Button3_Click(sender, e)
+
     End Sub
 
-    Private Sub TextBox9_TextChanged(sender As Object, e As EventArgs) Handles TextBox9.TextChanged
+    Private Sub TextBox9_TextChanged(sender As Object, e As EventArgs) Handles TextBoxSID.TextChanged
 
+    End Sub
+
+    Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
+        '   For Each row As DataGridViewRow In DataGridViewA.Rows
+        ' DataGridViewA.Rows.Item(row.Index).Visible = True
+
+        'Next
+        TextBoxName.Clear()
+        TextBoxDesignation.Clear()
+        TextBoxDOB.Clear()
+        TextBoxPassword.Clear()
+        TextBoxGender.Clear()
+        TextBoxMobile.Clear()
+        TextBoxAddress.Clear()
+        TextBoxSearch.Clear()
+        TextBoxSID.Clear()
     End Sub
 End Class
