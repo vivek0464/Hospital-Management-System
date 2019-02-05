@@ -1,6 +1,7 @@
-Task 1- Deadline - 02/01/2019
+Task 1- Deadline - 05/01/2019
 
 	Anubhav Tyagi - Search staff query implementation
+		      - Data Validation
 
 	Rakesh Reddy - Update Staff Details feature
 
