@@ -22,17 +22,17 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.TextBox1 = New System.Windows.Forms.TextBox()
+        Me.TextBoxName = New System.Windows.Forms.TextBox()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.Button2 = New System.Windows.Forms.Button()
-        Me.TextBox2 = New System.Windows.Forms.TextBox()
-        Me.TextBox3 = New System.Windows.Forms.TextBox()
-        Me.TextBox4 = New System.Windows.Forms.TextBox()
-        Me.TextBox5 = New System.Windows.Forms.TextBox()
-        Me.TextBox6 = New System.Windows.Forms.TextBox()
-        Me.TextBox7 = New System.Windows.Forms.TextBox()
-        Me.TextBox8 = New System.Windows.Forms.TextBox()
-        Me.TextBox9 = New System.Windows.Forms.TextBox()
+        Me.TextBoxDesignation = New System.Windows.Forms.TextBox()
+        Me.TextBoxDOB = New System.Windows.Forms.TextBox()
+        Me.TextBoxPassword = New System.Windows.Forms.TextBox()
+        Me.TextBoxGender = New System.Windows.Forms.TextBox()
+        Me.TextBoxMobile = New System.Windows.Forms.TextBox()
+        Me.TextBoxAddress = New System.Windows.Forms.TextBox()
+        Me.TextBoxSearch = New System.Windows.Forms.TextBox()
+        Me.TextBoxSID = New System.Windows.Forms.TextBox()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Label3 = New System.Windows.Forms.Label()
@@ -42,18 +42,22 @@ Partial Class Form1
         Me.Label7 = New System.Windows.Forms.Label()
         Me.Label8 = New System.Windows.Forms.Label()
         Me.Label9 = New System.Windows.Forms.Label()
+        Me.DataGridViewA = New System.Windows.Forms.DataGridView()
+        Me.Button3 = New System.Windows.Forms.Button()
+        CType(Me.DataGridViewA, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
-        'TextBox1
+        'TextBoxName
         '
-        Me.TextBox1.Location = New System.Drawing.Point(92, 78)
-        Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(100, 20)
-        Me.TextBox1.TabIndex = 0
+        Me.TextBoxName.Location = New System.Drawing.Point(92, 78)
+        Me.TextBoxName.Name = "TextBoxName"
+        Me.TextBoxName.ReadOnly = True
+        Me.TextBoxName.Size = New System.Drawing.Size(100, 20)
+        Me.TextBoxName.TabIndex = 0
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(530, 132)
+        Me.Button1.Location = New System.Drawing.Point(478, 132)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(75, 23)
         Me.Button1.TabIndex = 1
@@ -62,69 +66,72 @@ Partial Class Form1
         '
         'Button2
         '
-        Me.Button2.Location = New System.Drawing.Point(530, 81)
+        Me.Button2.Location = New System.Drawing.Point(478, 81)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(75, 23)
         Me.Button2.TabIndex = 2
         Me.Button2.Text = "search"
         Me.Button2.UseVisualStyleBackColor = True
         '
-        'TextBox2
+        'TextBoxDesignation
         '
-        Me.TextBox2.Location = New System.Drawing.Point(92, 134)
-        Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.Size = New System.Drawing.Size(100, 20)
-        Me.TextBox2.TabIndex = 3
+        Me.TextBoxDesignation.Location = New System.Drawing.Point(92, 134)
+        Me.TextBoxDesignation.Name = "TextBoxDesignation"
+        Me.TextBoxDesignation.ReadOnly = True
+        Me.TextBoxDesignation.Size = New System.Drawing.Size(100, 20)
+        Me.TextBoxDesignation.TabIndex = 3
         '
-        'TextBox3
+        'TextBoxDOB
         '
-        Me.TextBox3.Location = New System.Drawing.Point(92, 203)
-        Me.TextBox3.Name = "TextBox3"
-        Me.TextBox3.Size = New System.Drawing.Size(100, 20)
-        Me.TextBox3.TabIndex = 4
+        Me.TextBoxDOB.Location = New System.Drawing.Point(92, 203)
+        Me.TextBoxDOB.Name = "TextBoxDOB"
+        Me.TextBoxDOB.ReadOnly = True
+        Me.TextBoxDOB.Size = New System.Drawing.Size(100, 20)
+        Me.TextBoxDOB.TabIndex = 4
         '
-        'TextBox4
+        'TextBoxPassword
         '
-        Me.TextBox4.Location = New System.Drawing.Point(303, 203)
-        Me.TextBox4.Name = "TextBox4"
-        Me.TextBox4.Size = New System.Drawing.Size(100, 20)
-        Me.TextBox4.TabIndex = 5
+        Me.TextBoxPassword.Location = New System.Drawing.Point(292, 132)
+        Me.TextBoxPassword.Name = "TextBoxPassword"
+        Me.TextBoxPassword.Size = New System.Drawing.Size(100, 20)
+        Me.TextBoxPassword.TabIndex = 5
         '
-        'TextBox5
+        'TextBoxGender
         '
-        Me.TextBox5.Location = New System.Drawing.Point(303, 26)
-        Me.TextBox5.Name = "TextBox5"
-        Me.TextBox5.Size = New System.Drawing.Size(100, 20)
-        Me.TextBox5.TabIndex = 6
+        Me.TextBoxGender.Location = New System.Drawing.Point(92, 265)
+        Me.TextBoxGender.Name = "TextBoxGender"
+        Me.TextBoxGender.ReadOnly = True
+        Me.TextBoxGender.Size = New System.Drawing.Size(100, 20)
+        Me.TextBoxGender.TabIndex = 6
         '
-        'TextBox6
+        'TextBoxMobile
         '
-        Me.TextBox6.Location = New System.Drawing.Point(303, 78)
-        Me.TextBox6.Name = "TextBox6"
-        Me.TextBox6.Size = New System.Drawing.Size(100, 20)
-        Me.TextBox6.TabIndex = 7
+        Me.TextBoxMobile.Location = New System.Drawing.Point(292, 29)
+        Me.TextBoxMobile.Name = "TextBoxMobile"
+        Me.TextBoxMobile.Size = New System.Drawing.Size(100, 20)
+        Me.TextBoxMobile.TabIndex = 7
         '
-        'TextBox7
+        'TextBoxAddress
         '
-        Me.TextBox7.Location = New System.Drawing.Point(303, 134)
-        Me.TextBox7.Name = "TextBox7"
-        Me.TextBox7.Size = New System.Drawing.Size(100, 20)
-        Me.TextBox7.TabIndex = 8
+        Me.TextBoxAddress.Location = New System.Drawing.Point(292, 83)
+        Me.TextBoxAddress.Name = "TextBoxAddress"
+        Me.TextBoxAddress.Size = New System.Drawing.Size(100, 20)
+        Me.TextBoxAddress.TabIndex = 8
         '
-        'TextBox8
+        'TextBoxSearch
         '
-        Me.TextBox8.Location = New System.Drawing.Point(530, 62)
-        Me.TextBox8.Name = "TextBox8"
-        Me.TextBox8.Size = New System.Drawing.Size(100, 20)
-        Me.TextBox8.TabIndex = 9
+        Me.TextBoxSearch.Location = New System.Drawing.Point(464, 29)
+        Me.TextBoxSearch.Name = "TextBoxSearch"
+        Me.TextBoxSearch.Size = New System.Drawing.Size(100, 20)
+        Me.TextBoxSearch.TabIndex = 9
         '
-        'TextBox9
+        'TextBoxSID
         '
-        Me.TextBox9.Location = New System.Drawing.Point(92, 25)
-        Me.TextBox9.Name = "TextBox9"
-        Me.TextBox9.ReadOnly = True
-        Me.TextBox9.Size = New System.Drawing.Size(100, 20)
-        Me.TextBox9.TabIndex = 10
+        Me.TextBoxSID.Location = New System.Drawing.Point(92, 25)
+        Me.TextBoxSID.Name = "TextBoxSID"
+        Me.TextBoxSID.ReadOnly = True
+        Me.TextBoxSID.Size = New System.Drawing.Size(100, 20)
+        Me.TextBoxSID.TabIndex = 10
         '
         'Label1
         '
@@ -165,7 +172,7 @@ Partial Class Form1
         'Label5
         '
         Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(239, 210)
+        Me.Label5.Location = New System.Drawing.Point(224, 132)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(53, 13)
         Me.Label5.TabIndex = 15
@@ -174,7 +181,7 @@ Partial Class Form1
         'Label6
         '
         Me.Label6.AutoSize = True
-        Me.Label6.Location = New System.Drawing.Point(239, 33)
+        Me.Label6.Location = New System.Drawing.Point(23, 268)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(42, 13)
         Me.Label6.TabIndex = 16
@@ -183,7 +190,7 @@ Partial Class Form1
         'Label7
         '
         Me.Label7.AutoSize = True
-        Me.Label7.Location = New System.Drawing.Point(239, 85)
+        Me.Label7.Location = New System.Drawing.Point(239, 25)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(38, 13)
         Me.Label7.TabIndex = 17
@@ -192,7 +199,7 @@ Partial Class Form1
         'Label8
         '
         Me.Label8.AutoSize = True
-        Me.Label8.Location = New System.Drawing.Point(239, 141)
+        Me.Label8.Location = New System.Drawing.Point(232, 85)
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(45, 13)
         Me.Label8.TabIndex = 18
@@ -201,17 +208,36 @@ Partial Class Form1
         'Label9
         '
         Me.Label9.AutoSize = True
-        Me.Label9.Location = New System.Drawing.Point(527, 46)
+        Me.Label9.Location = New System.Drawing.Point(461, 13)
         Me.Label9.Name = "Label9"
         Me.Label9.Size = New System.Drawing.Size(92, 13)
         Me.Label9.TabIndex = 19
         Me.Label9.Text = "Search Mobile No"
         '
+        'DataGridViewA
+        '
+        Me.DataGridViewA.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.DataGridViewA.Location = New System.Drawing.Point(198, 161)
+        Me.DataGridViewA.Name = "DataGridViewA"
+        Me.DataGridViewA.Size = New System.Drawing.Size(662, 150)
+        Me.DataGridViewA.TabIndex = 20
+        '
+        'Button3
+        '
+        Me.Button3.Location = New System.Drawing.Point(619, 81)
+        Me.Button3.Name = "Button3"
+        Me.Button3.Size = New System.Drawing.Size(75, 23)
+        Me.Button3.TabIndex = 21
+        Me.Button3.Text = "Clear"
+        Me.Button3.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(872, 261)
+        Me.ClientSize = New System.Drawing.Size(872, 317)
+        Me.Controls.Add(Me.Button3)
+        Me.Controls.Add(Me.DataGridViewA)
         Me.Controls.Add(Me.Label9)
         Me.Controls.Add(Me.Label8)
         Me.Controls.Add(Me.Label7)
@@ -221,34 +247,35 @@ Partial Class Form1
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
-        Me.Controls.Add(Me.TextBox9)
-        Me.Controls.Add(Me.TextBox8)
-        Me.Controls.Add(Me.TextBox7)
-        Me.Controls.Add(Me.TextBox6)
-        Me.Controls.Add(Me.TextBox5)
-        Me.Controls.Add(Me.TextBox4)
-        Me.Controls.Add(Me.TextBox3)
-        Me.Controls.Add(Me.TextBox2)
+        Me.Controls.Add(Me.TextBoxSID)
+        Me.Controls.Add(Me.TextBoxSearch)
+        Me.Controls.Add(Me.TextBoxAddress)
+        Me.Controls.Add(Me.TextBoxMobile)
+        Me.Controls.Add(Me.TextBoxGender)
+        Me.Controls.Add(Me.TextBoxPassword)
+        Me.Controls.Add(Me.TextBoxDOB)
+        Me.Controls.Add(Me.TextBoxDesignation)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
-        Me.Controls.Add(Me.TextBox1)
+        Me.Controls.Add(Me.TextBoxName)
         Me.Name = "Form1"
         Me.Text = "Form1"
+        CType(Me.DataGridViewA, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
     End Sub
-    Friend WithEvents TextBox1 As System.Windows.Forms.TextBox
+    Friend WithEvents TextBoxName As System.Windows.Forms.TextBox
     Friend WithEvents Button1 As System.Windows.Forms.Button
     Friend WithEvents Button2 As System.Windows.Forms.Button
-    Friend WithEvents TextBox2 As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox3 As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox4 As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox5 As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox6 As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox7 As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox8 As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox9 As System.Windows.Forms.TextBox
+    Friend WithEvents TextBoxDesignation As System.Windows.Forms.TextBox
+    Friend WithEvents TextBoxDOB As System.Windows.Forms.TextBox
+    Friend WithEvents TextBoxPassword As System.Windows.Forms.TextBox
+    Friend WithEvents TextBoxGender As System.Windows.Forms.TextBox
+    Friend WithEvents TextBoxMobile As System.Windows.Forms.TextBox
+    Friend WithEvents TextBoxAddress As System.Windows.Forms.TextBox
+    Friend WithEvents TextBoxSearch As System.Windows.Forms.TextBox
+    Friend WithEvents TextBoxSID As System.Windows.Forms.TextBox
     Friend WithEvents Label1 As System.Windows.Forms.Label
     Friend WithEvents Label2 As System.Windows.Forms.Label
     Friend WithEvents Label3 As System.Windows.Forms.Label
@@ -258,5 +285,7 @@ Partial Class Form1
     Friend WithEvents Label7 As System.Windows.Forms.Label
     Friend WithEvents Label8 As System.Windows.Forms.Label
     Friend WithEvents Label9 As System.Windows.Forms.Label
+    Friend WithEvents DataGridViewA As System.Windows.Forms.DataGridView
+    Friend WithEvents Button3 As System.Windows.Forms.Button
 
 End Class
