@@ -1,7 +1,12 @@
-Task 1- Deadline - 05/01/2019
+Previously Assigned Tasks to all group members were cancelled due to Change in problem statement definition
 
-	Anubhav Tyagi - Search staff query implementation
-		      - Data Validation
+Task 1 - Deadline - 04/02/2019
+	Vineet - create database for patient and staff
+	Vivek - Basic outline UI for the forms
+
+Task 1- Deadline - 06/02/2019
+
+	Anubhav Tyagi - Search staff implementation, Data Validation
 
 	Rakesh Reddy - Update Staff Details feature
 
@@ -10,3 +15,6 @@ Task 1- Deadline - 05/01/2019
 	Vineet Malik - Patient Add , Patient Update
 
 	Vivek Kumar - Patient Consultancy , Patient Update
+	
+	Ayush Makharia - Create Database and UI for the project
+

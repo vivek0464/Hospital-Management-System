@@ -320,8 +320,8 @@ Public Class Form1
             txtAGender.Text = DataGridViewA.Rows(e.RowIndex).Cells(3).Value
             txtAMobile.Text = DataGridViewA.Rows(e.RowIndex).Cells(4).Value
             txtAAddress.Text = DataGridViewA.Rows(e.RowIndex).Cells(5).Value
-            txtADateIn.Text = DataGridViewA.Rows(e.RowIndex).Cells(6).Value.ToString()
-            txtADateOut.Text = DataGridViewA.Rows(e.RowIndex).Cells(7).Value.ToString()
+            txtADateIn.Text = DataGridViewA.Rows(e.RowIndex).Cells(6).Value
+            txtADateOut.Text = DataGridViewA.Rows(e.RowIndex).Cells(7).Value
             txtADisease.Text = DataGridViewA.Rows(e.RowIndex).Cells(8).Value.ToString()
             txtAStatus.Text = DataGridViewA.Rows(e.RowIndex).Cells(9).Value.ToString()
             txtARoomNo.Text = DataGridViewA.Rows(e.RowIndex).Cells(10).Value.ToString()

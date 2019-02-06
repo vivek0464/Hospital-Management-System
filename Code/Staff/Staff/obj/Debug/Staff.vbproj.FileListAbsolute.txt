@@ -9,3 +9,14 @@ C:\Users\RHYTHM\Downloads\Hospital-Management-System-master\Staff\Staff\bin\Debu
 C:\Users\RHYTHM\Downloads\Hospital-Management-System-master\Staff\Staff\obj\Debug\Staff.exe
 C:\Users\RHYTHM\Downloads\Hospital-Management-System-master\Staff\Staff\obj\Debug\Staff.xml
 C:\Users\RHYTHM\Downloads\Hospital-Management-System-master\Staff\Staff\obj\Debug\Staff.pdb
+C:\Users\ANUBHAV TYAGI\Desktop\Hospital-Management-System\Code\Staff\Staff\bin\Debug\Staff.exe.config
+C:\Users\ANUBHAV TYAGI\Desktop\Hospital-Management-System\Code\Staff\Staff\obj\Debug\Staff.exe
+C:\Users\ANUBHAV TYAGI\Desktop\Hospital-Management-System\Code\Staff\Staff\obj\Debug\Staff.xml
+C:\Users\ANUBHAV TYAGI\Desktop\Hospital-Management-System\Code\Staff\Staff\obj\Debug\Staff.pdb
+C:\Users\ANUBHAV TYAGI\Desktop\Hospital-Management-System\Code\Staff\Staff\bin\Debug\Staff.exe
+C:\Users\ANUBHAV TYAGI\Desktop\Hospital-Management-System\Code\Staff\Staff\bin\Debug\Staff.pdb
+C:\Users\ANUBHAV TYAGI\Desktop\Hospital-Management-System\Code\Staff\Staff\bin\Debug\Staff.xml
+C:\Users\ANUBHAV TYAGI\Desktop\Hospital-Management-System\Code\Staff\Staff\obj\Debug\Staff.vbprojResolveAssemblyReference.cache
+C:\Users\ANUBHAV TYAGI\Desktop\Hospital-Management-System\Code\Staff\Staff\obj\Debug\Staff.Form1.resources
+C:\Users\ANUBHAV TYAGI\Desktop\Hospital-Management-System\Code\Staff\Staff\obj\Debug\Staff.Resources.resources
+C:\Users\ANUBHAV TYAGI\Desktop\Hospital-Management-System\Code\Staff\Staff\obj\Debug\Staff.vbproj.GenerateResource.Cache

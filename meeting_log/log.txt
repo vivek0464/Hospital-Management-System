@@ -22,12 +22,14 @@ Meeting 2 - Attendance - All Present
 		d)SignUp/Login Form : Login and signup form for doctor, patient and admin  
 	    3-Initial Work Distribution for the project and the Deadline for completion of the same
 
-Meeting 1 - Attendance - All Present 
+Meeting 3 - Attendance - All Present 
             Time - 12 pm    Date - 02/02/2019    Duration - 1.5 hrs
 	    1- Choice of Database - MS Access
 	    2- Redefined the problem statement - System for Internal management of hospital , Not to be used by outside people
 	    3- Structure of software - a) Login is for Staff And Admin Only
-	    			       b) Staff login contains the following features : Add Patient, Admit Patient, Consult Patient to a 					   					                                                doctor,Staff members availability query, Blood Bank Details
+	    			       b) Staff login contains the following features : Add Patient, Admit Patient, Consult Patient to a 					   					                                                doctor,Check Staff members availability, Blood Bank Details
 				       c) Admin Login contains the following features : Add Staff Members , Blood Bank Details, staff leave 					                                                                                                      approval And Read and write access to all database
 	    4- Task Distribution
+            5- Deciding fields of the database
   
+Next Meeting 07/02/2019 Thursday Time - Yet to be decided
