@@ -1,0 +1,9 @@
+D:\projects\Admin\Admin\Admin\bin\x64\Debug\Admin.exe
+D:\projects\Admin\Admin\Admin\bin\x64\Debug\Admin.pdb
+D:\projects\Admin\Admin\Admin\bin\x64\Debug\Admin.xml
+D:\projects\Admin\Admin\Admin\obj\x64\Debug\Admin.Form1.resources
+D:\projects\Admin\Admin\Admin\obj\x64\Debug\Admin.Resources.resources
+D:\projects\Admin\Admin\Admin\obj\x64\Debug\Admin.vbproj.GenerateResource.Cache
+D:\projects\Admin\Admin\Admin\obj\x64\Debug\Admin.exe
+D:\projects\Admin\Admin\Admin\obj\x64\Debug\Admin.xml
+D:\projects\Admin\Admin\Admin\obj\x64\Debug\Admin.pdb
