@@ -1,0 +1,190 @@
+C:\Users\ANUBHAV TYAGI\AppData\Local\Temporary Projects\Hospital_Management_System\bin\Debug\Hospital_Management_System.exe.config
+C:\Users\ANUBHAV TYAGI\AppData\Local\Temporary Projects\Hospital_Management_System\bin\Debug\Hospital_Management_System.exe
+C:\Users\ANUBHAV TYAGI\AppData\Local\Temporary Projects\Hospital_Management_System\bin\Debug\Hospital_Management_System.pdb
+C:\Users\ANUBHAV TYAGI\AppData\Local\Temporary Projects\Hospital_Management_System\bin\Debug\Hospital_Management_System.xml
+C:\Users\ANUBHAV TYAGI\AppData\Local\Temporary Projects\Hospital_Management_System\obj\Debug\Hospital_Management_System.Form1.resources
+C:\Users\ANUBHAV TYAGI\AppData\Local\Temporary Projects\Hospital_Management_System\obj\Debug\Hospital_Management_System.Form2.resources
+C:\Users\ANUBHAV TYAGI\AppData\Local\Temporary Projects\Hospital_Management_System\obj\Debug\Hospital_Management_System.Resources.resources
+C:\Users\ANUBHAV TYAGI\AppData\Local\Temporary Projects\Hospital_Management_System\obj\Debug\Hospital_Management_System.vbproj.GenerateResource.Cache
+C:\Users\ANUBHAV TYAGI\AppData\Local\Temporary Projects\Hospital_Management_System\obj\Debug\Hospital_Management_System.exe
+C:\Users\ANUBHAV TYAGI\AppData\Local\Temporary Projects\Hospital_Management_System\obj\Debug\Hospital_Management_System.xml
+C:\Users\ANUBHAV TYAGI\AppData\Local\Temporary Projects\Hospital_Management_System\obj\Debug\Hospital_Management_System.pdb
+C:\Users\ANUBHAV TYAGI\Documents\Visual Studio 2013\Projects\Hospital_Management_System\Hospital_Management_System\bin\Debug\Hospital_Management_System.exe.config
+C:\Users\ANUBHAV TYAGI\Documents\Visual Studio 2013\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.exe
+C:\Users\ANUBHAV TYAGI\Documents\Visual Studio 2013\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.xml
+C:\Users\ANUBHAV TYAGI\Documents\Visual Studio 2013\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.pdb
+C:\Users\ANUBHAV TYAGI\Documents\Visual Studio 2013\Projects\Hospital_Management_System\Hospital_Management_System\bin\Debug\Hospital_Management_System.exe
+C:\Users\ANUBHAV TYAGI\Documents\Visual Studio 2013\Projects\Hospital_Management_System\Hospital_Management_System\bin\Debug\Hospital_Management_System.pdb
+C:\Users\ANUBHAV TYAGI\Documents\Visual Studio 2013\Projects\Hospital_Management_System\Hospital_Management_System\bin\Debug\Hospital_Management_System.xml
+C:\Users\ANUBHAV TYAGI\Documents\Visual Studio 2013\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Form1.resources
+C:\Users\ANUBHAV TYAGI\Documents\Visual Studio 2013\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Form2.resources
+C:\Users\ANUBHAV TYAGI\Documents\Visual Studio 2013\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Resources.resources
+C:\Users\ANUBHAV TYAGI\Documents\Visual Studio 2013\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.vbproj.GenerateResource.Cache
+C:\Users\ANUBHAV TYAGI\Documents\Visual Studio 2013\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Registration.resources
+C:\Users\ANUBHAV TYAGI\Documents\Visual Studio 2013\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.CheckUp.resources
+C:\Users\ANUBHAV TYAGI\Documents\Visual Studio 2013\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Admit.resources
+C:\Users\ANUBHAV TYAGI\Documents\Visual Studio 2013\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Availability.resources
+C:\Users\ANUBHAV TYAGI\Documents\Visual Studio 2013\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.BloodAvailability.resources
+C:\Users\ANUBHAV TYAGI\Documents\Visual Studio 2013\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.EditProfile.resources
+C:\Users\ANUBHAV TYAGI\Documents\Visual Studio 2013\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Form3.resources
+C:\Users\ANUBHAV TYAGI\Documents\Visual Studio 2013\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.RegisterDonor.resources
+C:\Users\ANUBHAV TYAGI\Documents\Visual Studio 2013\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.RegisterReciever.resources
+C:\Users\ANUBHAV TYAGI\Documents\Visual Studio 2013\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.UpdateDetails.resources
+C:\Users\ANUBHAV TYAGI\Documents\Visual Studio 2013\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.SearchPatient.resources
+D:\Hospital\Projects-master\Projects-master\Hospital_Management_System\Hospital_Management_System\bin\Debug\Hospital_Management_System.exe.config
+D:\Hospital\Projects-master\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.exe
+D:\Hospital\Projects-master\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.xml
+D:\Hospital\Projects-master\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.pdb
+D:\Hospital\Projects-master\Projects-master\Hospital_Management_System\Hospital_Management_System\bin\Debug\Hospital_Management_System.exe
+D:\Hospital\Projects-master\Projects-master\Hospital_Management_System\Hospital_Management_System\bin\Debug\Hospital_Management_System.pdb
+D:\Hospital\Projects-master\Projects-master\Hospital_Management_System\Hospital_Management_System\bin\Debug\Hospital_Management_System.xml
+D:\Hospital\Projects-master\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Admit.resources
+D:\Hospital\Projects-master\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Availability.resources
+D:\Hospital\Projects-master\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.BloodAvailability.resources
+D:\Hospital\Projects-master\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.CheckUp.resources
+D:\Hospital\Projects-master\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.EditProfile.resources
+D:\Hospital\Projects-master\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Form1.resources
+D:\Hospital\Projects-master\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Form2.resources
+D:\Hospital\Projects-master\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Form3.resources
+D:\Hospital\Projects-master\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Resources.resources
+D:\Hospital\Projects-master\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.RegisterDonor.resources
+D:\Hospital\Projects-master\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.RegisterReciever.resources
+D:\Hospital\Projects-master\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Registration.resources
+D:\Hospital\Projects-master\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.SearchPatient.resources
+D:\Hospital\Projects-master\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.UpdateDetails.resources
+D:\Hospital\Projects-master\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.vbproj.GenerateResource.Cache
+C:\Users\ANUBHAV TYAGI\Downloads\hospital-manage-master\Hospital_Management_System\Hospital_Management_System\bin\Debug\Hospital_Management_System.exe.config
+C:\Users\ANUBHAV TYAGI\Downloads\hospital-manage-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.exe
+C:\Users\ANUBHAV TYAGI\Downloads\hospital-manage-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.xml
+C:\Users\ANUBHAV TYAGI\Downloads\hospital-manage-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.pdb
+C:\Users\ANUBHAV TYAGI\Downloads\hospital-manage-master\Hospital_Management_System\Hospital_Management_System\bin\Debug\Hospital_Management_System.exe
+C:\Users\ANUBHAV TYAGI\Downloads\hospital-manage-master\Hospital_Management_System\Hospital_Management_System\bin\Debug\Hospital_Management_System.pdb
+C:\Users\ANUBHAV TYAGI\Downloads\hospital-manage-master\Hospital_Management_System\Hospital_Management_System\bin\Debug\Hospital_Management_System.xml
+C:\Users\ANUBHAV TYAGI\Downloads\hospital-manage-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Admit.resources
+C:\Users\ANUBHAV TYAGI\Downloads\hospital-manage-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Availability.resources
+C:\Users\ANUBHAV TYAGI\Downloads\hospital-manage-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.BloodAvailability.resources
+C:\Users\ANUBHAV TYAGI\Downloads\hospital-manage-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.CheckUp.resources
+C:\Users\ANUBHAV TYAGI\Downloads\hospital-manage-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.EditProfile.resources
+C:\Users\ANUBHAV TYAGI\Downloads\hospital-manage-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Form1.resources
+C:\Users\ANUBHAV TYAGI\Downloads\hospital-manage-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Form2.resources
+C:\Users\ANUBHAV TYAGI\Downloads\hospital-manage-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Form3.resources
+C:\Users\ANUBHAV TYAGI\Downloads\hospital-manage-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Resources.resources
+C:\Users\ANUBHAV TYAGI\Downloads\hospital-manage-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.RegisterDonor.resources
+C:\Users\ANUBHAV TYAGI\Downloads\hospital-manage-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.RegisterReciever.resources
+C:\Users\ANUBHAV TYAGI\Downloads\hospital-manage-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Registration.resources
+C:\Users\ANUBHAV TYAGI\Downloads\hospital-manage-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.SearchPatient.resources
+C:\Users\ANUBHAV TYAGI\Downloads\hospital-manage-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.UpdateDetails.resources
+C:\Users\ANUBHAV TYAGI\Downloads\hospital-manage-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.vbproj.GenerateResource.Cache
+C:\Users\ANUBHAV TYAGI\Downloads\hospital-manage-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.SearchPatient_Admin.resources
+C:\Users\ANUBHAV TYAGI\Desktop\Projects\Hospital_Management_System\Hospital_Management_System\bin\Debug\Hospital_Management_System.exe.config
+C:\Users\ANUBHAV TYAGI\Desktop\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.exe
+C:\Users\ANUBHAV TYAGI\Desktop\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.xml
+C:\Users\ANUBHAV TYAGI\Desktop\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.pdb
+C:\Users\ANUBHAV TYAGI\Desktop\Projects\Hospital_Management_System\Hospital_Management_System\bin\Debug\Hospital_Management_System.exe
+C:\Users\ANUBHAV TYAGI\Desktop\Projects\Hospital_Management_System\Hospital_Management_System\bin\Debug\Hospital_Management_System.pdb
+C:\Users\ANUBHAV TYAGI\Desktop\Projects\Hospital_Management_System\Hospital_Management_System\bin\Debug\Hospital_Management_System.xml
+C:\Users\ANUBHAV TYAGI\Desktop\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.AddStaff_Admin.resources
+C:\Users\ANUBHAV TYAGI\Desktop\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Admit.resources
+C:\Users\ANUBHAV TYAGI\Desktop\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Availability.resources
+C:\Users\ANUBHAV TYAGI\Desktop\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.BloodAvailability.resources
+C:\Users\ANUBHAV TYAGI\Desktop\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.CheckUp.resources
+C:\Users\ANUBHAV TYAGI\Desktop\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.EditProfile.resources
+C:\Users\ANUBHAV TYAGI\Desktop\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Form1.resources
+C:\Users\ANUBHAV TYAGI\Desktop\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Form2.resources
+C:\Users\ANUBHAV TYAGI\Desktop\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Form3.resources
+C:\Users\ANUBHAV TYAGI\Desktop\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Resources.resources
+C:\Users\ANUBHAV TYAGI\Desktop\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.RegisterDonor.resources
+C:\Users\ANUBHAV TYAGI\Desktop\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.RegisterReciever.resources
+C:\Users\ANUBHAV TYAGI\Desktop\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Registration.resources
+C:\Users\ANUBHAV TYAGI\Desktop\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.SearchDonor_Admin.resources
+C:\Users\ANUBHAV TYAGI\Desktop\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.SearchPatient.resources
+C:\Users\ANUBHAV TYAGI\Desktop\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.SearchPatient_Admin.resources
+C:\Users\ANUBHAV TYAGI\Desktop\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.SearchReciever_Admin.resources
+C:\Users\ANUBHAV TYAGI\Desktop\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.UpdateDetails.resources
+C:\Users\ANUBHAV TYAGI\Desktop\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.UpdateStaff_Admin.resources
+C:\Users\ANUBHAV TYAGI\Desktop\Projects\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.vbproj.GenerateResource.Cache
+D:\Hospital\Final1.0\Projects-master\Hospital_Management_System\Hospital_Management_System\bin\Debug\Hospital_Management_System.exe.config
+D:\Hospital\Final1.0\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.exe
+D:\Hospital\Final1.0\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.xml
+D:\Hospital\Final1.0\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.pdb
+D:\Hospital\Final1.0\Projects-master\Hospital_Management_System\Hospital_Management_System\bin\Debug\Hospital_Management_System.exe
+D:\Hospital\Final1.0\Projects-master\Hospital_Management_System\Hospital_Management_System\bin\Debug\Hospital_Management_System.pdb
+D:\Hospital\Final1.0\Projects-master\Hospital_Management_System\Hospital_Management_System\bin\Debug\Hospital_Management_System.xml
+D:\Hospital\Final1.0\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.AddStaff_Admin.resources
+D:\Hospital\Final1.0\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Admit.resources
+D:\Hospital\Final1.0\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Availability.resources
+D:\Hospital\Final1.0\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.BloodAvailability.resources
+D:\Hospital\Final1.0\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.CheckUp.resources
+D:\Hospital\Final1.0\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.EditProfile.resources
+D:\Hospital\Final1.0\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Form1.resources
+D:\Hospital\Final1.0\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Form2.resources
+D:\Hospital\Final1.0\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Form3.resources
+D:\Hospital\Final1.0\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Resources.resources
+D:\Hospital\Final1.0\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.RegisterDonor.resources
+D:\Hospital\Final1.0\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.RegisterReciever.resources
+D:\Hospital\Final1.0\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Registration.resources
+D:\Hospital\Final1.0\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.SearchDonor_Admin.resources
+D:\Hospital\Final1.0\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.SearchPatient.resources
+D:\Hospital\Final1.0\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.SearchPatient_Admin.resources
+D:\Hospital\Final1.0\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.SearchReciever_Admin.resources
+D:\Hospital\Final1.0\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.UpdateDetails.resources
+D:\Hospital\Final1.0\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.UpdateStaff_Admin.resources
+D:\Hospital\Final1.0\Projects-master\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.vbproj.GenerateResource.Cache
+C:\Users\ANUBHAV TYAGI\Pictures\Hospital_Management_System\Hospital_Management_System\bin\Debug\Hospital_Management_System.exe.config
+C:\Users\ANUBHAV TYAGI\Pictures\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.exe
+C:\Users\ANUBHAV TYAGI\Pictures\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.xml
+C:\Users\ANUBHAV TYAGI\Pictures\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.pdb
+C:\Users\ANUBHAV TYAGI\Pictures\Hospital_Management_System\Hospital_Management_System\bin\Debug\Hospital_Management_System.exe
+C:\Users\ANUBHAV TYAGI\Pictures\Hospital_Management_System\Hospital_Management_System\bin\Debug\Hospital_Management_System.pdb
+C:\Users\ANUBHAV TYAGI\Pictures\Hospital_Management_System\Hospital_Management_System\bin\Debug\Hospital_Management_System.xml
+C:\Users\ANUBHAV TYAGI\Pictures\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.AddStaff_Admin.resources
+C:\Users\ANUBHAV TYAGI\Pictures\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Admit.resources
+C:\Users\ANUBHAV TYAGI\Pictures\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Availability.resources
+C:\Users\ANUBHAV TYAGI\Pictures\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.BloodAvailability.resources
+C:\Users\ANUBHAV TYAGI\Pictures\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.CheckUp.resources
+C:\Users\ANUBHAV TYAGI\Pictures\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.EditProfile.resources
+C:\Users\ANUBHAV TYAGI\Pictures\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Form1.resources
+C:\Users\ANUBHAV TYAGI\Pictures\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Form2.resources
+C:\Users\ANUBHAV TYAGI\Pictures\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Form3.resources
+C:\Users\ANUBHAV TYAGI\Pictures\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Resources.resources
+C:\Users\ANUBHAV TYAGI\Pictures\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.RegisterDonor.resources
+C:\Users\ANUBHAV TYAGI\Pictures\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.RegisterReciever.resources
+C:\Users\ANUBHAV TYAGI\Pictures\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Registration.resources
+C:\Users\ANUBHAV TYAGI\Pictures\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.SearchDonor_Admin.resources
+C:\Users\ANUBHAV TYAGI\Pictures\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.SearchPatient.resources
+C:\Users\ANUBHAV TYAGI\Pictures\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.SearchPatient_Admin.resources
+C:\Users\ANUBHAV TYAGI\Pictures\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.SearchReciever_Admin.resources
+C:\Users\ANUBHAV TYAGI\Pictures\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.UpdateDetails.resources
+C:\Users\ANUBHAV TYAGI\Pictures\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.UpdateStaff_Admin.resources
+C:\Users\ANUBHAV TYAGI\Pictures\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.vbproj.GenerateResource.Cache
+C:\Users\ANUBHAV TYAGI\Pictures\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Form4.resources
+C:\Users\ANUBHAV TYAGI\Pictures\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Form5.resources
+D:\Hospital\Final5\Hospital_Management_System\Hospital_Management_System\bin\Debug\Hospital_Management_System.exe.config
+D:\Hospital\Final5\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.exe
+D:\Hospital\Final5\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.xml
+D:\Hospital\Final5\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.pdb
+D:\Hospital\Final5\Hospital_Management_System\Hospital_Management_System\bin\Debug\Hospital_Management_System.exe
+D:\Hospital\Final5\Hospital_Management_System\Hospital_Management_System\bin\Debug\Hospital_Management_System.pdb
+D:\Hospital\Final5\Hospital_Management_System\Hospital_Management_System\bin\Debug\Hospital_Management_System.xml
+D:\Hospital\Final5\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.AddStaff_Admin.resources
+D:\Hospital\Final5\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Admit.resources
+D:\Hospital\Final5\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Availability.resources
+D:\Hospital\Final5\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.BloodAvailability.resources
+D:\Hospital\Final5\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.CheckUp.resources
+D:\Hospital\Final5\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.EditProfile.resources
+D:\Hospital\Final5\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Form1.resources
+D:\Hospital\Final5\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Form2.resources
+D:\Hospital\Final5\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Form3.resources
+D:\Hospital\Final5\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Form4.resources
+D:\Hospital\Final5\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Form5.resources
+D:\Hospital\Final5\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Resources.resources
+D:\Hospital\Final5\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.RegisterDonor.resources
+D:\Hospital\Final5\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.RegisterReciever.resources
+D:\Hospital\Final5\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.Registration.resources
+D:\Hospital\Final5\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.SearchDonor_Admin.resources
+D:\Hospital\Final5\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.SearchPatient.resources
+D:\Hospital\Final5\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.SearchPatient_Admin.resources
+D:\Hospital\Final5\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.SearchReciever_Admin.resources
+D:\Hospital\Final5\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.UpdateDetails.resources
+D:\Hospital\Final5\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.UpdateStaff_Admin.resources
+D:\Hospital\Final5\Hospital_Management_System\Hospital_Management_System\obj\Debug\Hospital_Management_System.vbproj.GenerateResource.Cache

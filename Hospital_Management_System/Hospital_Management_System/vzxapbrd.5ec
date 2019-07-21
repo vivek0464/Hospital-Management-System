@@ -1,0 +1,57 @@
+﻿Imports System.Data.OleDb
+Public Class Form2
+    Dim myconnection As OleDbConnection = New OleDbConnection
+    Private Sub Form2_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        myconnection.ConnectionString = Form1.provider & Form1.datafile
+    End Sub
+
+    Private Sub RegistrationBtn_Click(sender As Object, e As EventArgs) Handles RegistrationBtn.Click
+        StaffPanel.Controls.Clear()
+        StaffPanel.Controls.Add(New Registration())
+    End Sub
+
+    Private Sub CheckUpBtn_Click(sender As Object, e As EventArgs) Handles CheckUpBtn.Click
+        StaffPanel.Controls.Clear()
+        StaffPanel.Controls.Add(New CheckUp())
+    End Sub
+
+    Private Sub AdmitBtn_Click(sender As Object, e As EventArgs) Handles AdmitBtn.Click
+        StaffPanel.Controls.Clear()
+        StaffPanel.Controls.Add(New Admit())
+    End Sub
+
+    Private Sub UpdateDetailsBtn_Click(sender As Object, e As EventArgs) Handles UpdateDetailsBtn.Click
+        StaffPanel.Controls.Clear()
+        StaffPanel.Controls.Add(New UpdateDetails())
+    End Sub
+
+    Private Sub AvailabilityBtn_Click(sender As Object, e As EventArgs) Handles AvailabilityBtn.Click
+        StaffPanel.Controls.Clear()
+        StaffPanel.Controls.Add(New Availability())
+    End Sub
+
+    Private Sub RegisterDonorBtn_Click(sender As Object, e As EventArgs) Handles RegisterDonorBtn.Click
+        StaffPanel.Controls.Clear()
+        StaffPanel.Controls.Add(New RegisterDonor())
+    End Sub
+
+    Private Sub RegisterRecieverBtn_Click(sender As Object, e As EventArgs) Handles RegisterRecieverBtn.Click
+        StaffPanel.Controls.Clear()
+        StaffPanel.Controls.Add(New RegisterReciever())
+    End Sub
+
+    Private Sub BloodAvailabilityBtn_Click(sender As Object, e As EventArgs) Handles BloodAvailabilityBtn.Click
+        StaffPanel.Controls.Clear()
+        StaffPanel.Controls.Add(New BloodAvailability())
+    End Sub
+
+    Private Sub EditProfileBtn_Click(sender As Object, e As EventArgs) Handles EditProfileBtn.Click
+        StaffPanel.Controls.Clear()
+        StaffPanel.Controls.Add(New EditProfile())
+    End Sub
+
+    Private Sub Form2_FormClosed(sender As Object, e As FormClosedEventArgs) Handles MyBase.FormClosed
+        Form1.username = ""
+        Form1.Show()
+    End Sub
+End Class
